@@ -1,2 +1,2 @@
 # yasnippets
-emacs macro for c
+emacs macros for c
